@@ -1,4 +1,6 @@
 {
+  "homepage": "https://Prasannabyalla.github.io/Portfolio-",
+
   "name": "byalla-prasanna---full-stack-developer-portfolio",
   "private": true,
   "version": "0.0.0",
@@ -18,7 +20,7 @@
     "typescript": "~5.8.2",
     "vite": "^6.2.0"
   }
-  "homepage": "https://Prasannabyalla.github.io/Portfolio-"
+ 
 "scripts": {
   "dev": "vite",
   "build": "vite build",
